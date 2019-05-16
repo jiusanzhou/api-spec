@@ -1,0 +1,31 @@
+{
+    "name": "ocs-schemas",
+    "version": "0.0.0",
+    "description": "OpenCrawler Specification JSON schemas",
+    "author": {
+      "name": "OpenCrawler Initiative TSC",
+      "email": "tsc@opencrawlers.org",
+      "url": "https://opencrawlers.org/"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/opencrawler/api-spec.git"
+    },
+    "license": "Apache-2.0",
+    "readmeFilename": "README.md",
+    "files": [
+      "README.md",
+      "schemas/*"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+      "mdv": "^1.0.7"
+    },
+    "keywords": [
+      "OpenCrawler",
+      "OCS",
+      "Crawler",
+      "schema",
+      "API"
+    ]
+  }
