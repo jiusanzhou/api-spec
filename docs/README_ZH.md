@@ -17,3 +17,5 @@
 </div>
 
 ---
+
+开发爬虫规范(OAS)是[开发爬虫倡议](https://opencrawlers.org)的子项目。
